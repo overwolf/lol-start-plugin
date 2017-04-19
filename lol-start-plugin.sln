@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lol-start-plugin", "lol-start-plugin\lol-start-plugin.csproj", "{CEFBF66B-C8BA-4320-B59F-8F0FD8C7539A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lol-start-plugin.Test", "lol-start-plugin.Test\lol-start-plugin.Test.csproj", "{EB29F4FE-E46C-4732-9AB8-CDD7FDF81D7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEFBF66B-C8BA-4320-B59F-8F0FD8C7539A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFBF66B-C8BA-4320-B59F-8F0FD8C7539A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFBF66B-C8BA-4320-B59F-8F0FD8C7539A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFBF66B-C8BA-4320-B59F-8F0FD8C7539A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB29F4FE-E46C-4732-9AB8-CDD7FDF81D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB29F4FE-E46C-4732-9AB8-CDD7FDF81D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB29F4FE-E46C-4732-9AB8-CDD7FDF81D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB29F4FE-E46C-4732-9AB8-CDD7FDF81D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
